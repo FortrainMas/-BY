@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Как запускать
+1. Нужно установить зависимости в основной папке и в папке mock
+2. Затем в папке mock нужно запустить index.js. Это будет апи на localhost:3500
+3. После этого npm run start в основной папке, и все должно работать
+
 ## Available Scripts
 
 In the project directory, you can run:
