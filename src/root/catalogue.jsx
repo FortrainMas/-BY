@@ -24,7 +24,7 @@ export default function Catalogue(){
     const { catalogue, q } = useLoaderData();
 
     const [page, setPage] = useState(0);
-    const productsOnPage = 9;
+    const productsOnPage = 9; // R: такое лучше выносить на вверх модуля с капс-локом
 
     const pageButtonHandler = (value) => {
         if(value == -1 && page != 0){
@@ -37,6 +37,7 @@ export default function Catalogue(){
     return (
         <div className='catalogue'>
             {
+                // R: Я бы сделал через if else. Меньше отступов - легче читать
                 catalogue.length ? (
                     <>
                         <div className="products-grid">

@@ -8,24 +8,15 @@ app.use(cors());
 const links = [
     "https://static.street-beat.ru/upload/resize_cache/iblock/265/240_240_1/7ax420w6caa9c5eum96wlvp403tyh1ao.jpg",
     "https://static.street-beat.ru/upload/resize_cache/iblock/533/240_240_1/ckp4khjg8gyzwxpu52h6wai67uya95wy.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/437/240_240_1/czbirnlvwof1uaxxookactidu69cfltk.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/acc/240_240_1/ljkmey5pe7r3hp314a01l7e5hf1kzck0.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/51b/500_500_1/5de5mmmon4qj9bdbs5tf43o7p6k6ket0.jpg",
     "https://static.street-beat.ru/upload/resize_cache/iblock/18f/240_240_1/5g6h5kf0vedmjx73rlhm1fvtu3wvbq1f.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/50d/240_240_1/wn3yhdfyqe0q4v9kkym4noqm4gzzwsrm.jpg",
     "https://static.street-beat.ru/upload/resize_cache/iblock/b63/240_240_1/y9mn4ly8z6ydwvmxe2a803gq0skfmbi9.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/1ea/500_500_1/e8j4oxp9xajs5mfoeqpra5e0uj2mf2e5.jpg",
     "https://static.street-beat.ru/upload/resize_cache/iblock/d89/500_500_1/iwnff5bxphhck0firgo11awpsf18wdsb.jpg",
     "https://media.garderobo.ru/streetbeat/medium/25b842f1b726b044bfab89bcb740db34.jpg",
     "https://media.garderobo.ru/streetbeat/medium/9d9dc9eadc0c5b3fdb0a4d297dc68be0.jpg",
     "https://media.garderobo.ru/streetbeat/medium/764398236c613408ea480d825cdef670.jpg",
     "https://media.garderobo.ru/streetbeat/medium/754d2b44c2566cfcb9059df6d7f1c9d9.jpg",
 
-    "https://static.street-beat.ru/upload/resize_cache/iblock/437/240_240_1/czbirnlvwof1uaxxookactidu69cfltk.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/acc/240_240_1/ljkmey5pe7r3hp314a01l7e5hf1kzck0.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/51b/500_500_1/5de5mmmon4qj9bdbs5tf43o7p6k6ket0.jpg",
     "https://static.street-beat.ru/upload/resize_cache/iblock/18f/240_240_1/5g6h5kf0vedmjx73rlhm1fvtu3wvbq1f.jpg",
-    "https://static.street-beat.ru/upload/resize_cache/iblock/50d/240_240_1/wn3yhdfyqe0q4v9kkym4noqm4gzzwsrm.jpg",
 
 ]
 
